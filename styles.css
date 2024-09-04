@@ -107,3 +107,36 @@ footer {
     bottom: 0; /* Alinha ao fundo da página */
     font-size: 1rem; /* Tamanho da fonte */
 }
+
+.audio{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 1rem;
+}
+
+.img{
+    display: flex;
+    align-items: right;
+    justify-content: right;
+    margin-top: 1rem;
+    margin-left: 200px;
+}
+
+.imagem {
+  
+    height: 80px;
+    position: relative;
+    border-radius: 40px;
+    align-items: right;
+
+}
+
+.midia {
+    display: flex;
+    align-items: center;
+    justify-content: left;
+    margin-top: 1rem;
+    width: 400px;
+}
