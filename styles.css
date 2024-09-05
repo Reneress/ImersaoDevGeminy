@@ -71,6 +71,7 @@ section button {
     padding: 1rem; /* Espaçamento interno */
     margin-bottom: 1rem; /* Espaçamento abaixo dos itens */
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Sombra leve */
+    width: 600px; /* Largura total dos itens */
 }
 
 /* Estiliza os títulos dentro dos itens de resultado */
@@ -131,6 +132,11 @@ footer {
     border-radius: 40px;
     align-items: right;
 
+}
+
+.imagem:hover {
+    transform: scale(3);
+    transition: 0.8s;
 }
 
 .midia {
