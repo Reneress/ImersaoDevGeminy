@@ -82,6 +82,7 @@ section button {
     cursor: pointer; /* Muda o cursor para indicar que é clicável */
 }
 
+
 /* Estiliza a caixa de resultados da pesquisa */
 .resultados-pesquisa {
     width: 60rem; /* Largura máxima da caixa de resultados */
